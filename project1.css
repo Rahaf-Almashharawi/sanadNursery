@@ -1,0 +1,463 @@
+body {
+    background-color: gray;
+    background-image: url(./images/children.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.welcom {
+    color: rgb(236, 48, 195);
+    text-align: center;
+    font-size: 27px;
+    font-family: cursive;
+    margin-top: 15px;
+}
+
+.line {
+    height: 3px;
+    width: 218px;
+    background-color: rgb(236, 48, 195);
+    margin: auto;
+    margin-top: -25px;
+    border-radius: 10px;
+}
+
+.parent1,
+.parent2,
+.parent3,
+.parent4 {
+    overflow: auto;
+    margin: 20px 0 0 0;
+
+}
+
+
+.box1 {
+    width: 300px;
+    height: 350px;
+    border: 3px solid black;
+    border-radius: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 150px;
+    margin-right: 105px;
+    background-color: rgb(202, 108, 209);
+    font-size: 40px;
+}
+
+.box1:hover {
+    width: 400px;
+    border-radius: 10%;
+    margin-right: 80px;
+    background-image: url(./images/managment\ 1.jpg);
+    background-size: cover;
+    font-size: 80px;
+}
+
+.box2 {
+    width: 300px;
+    height: 350px;
+    border: 3px solid black;
+    border-radius: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 30px;
+    background-color: rgb(101, 95, 219);
+    font-size: 40px;
+}
+
+.box2:hover {
+    border-radius: 80px;
+    width: 400px;
+    background-image: url(./images/newborn1.jpg);
+    background-size: cover;
+    font-size: 60px;
+}
+
+.box3 {
+    width: 300px;
+    height: 350px;
+    border: 4px solid black;
+    border-radius: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 360px;
+    margin-top: 10px;
+    background-color: rgb(99, 187, 202);
+    font-size: 40px;
+}
+
+.box3:hover {
+    border-radius: 25px;
+    width: 450px;
+    background-image: url(./images/baby2.jpg);
+    background-size: cover;
+    font-size: 60px;
+}
+
+.boxA {
+    width: 300px;
+    height: 350px;
+    border: 4px solid black;
+    border-radius: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 150px;
+    margin-right: 105px;
+    background-color: rgb(14, 220, 155);
+    font-size: 60px;
+
+}
+
+.boxA:hover {
+    border-radius: 25px;
+    width: 450px;
+    background-image: url(./images/baby\ 2\ years.jpg);
+    background-size: cover;
+    font-size: 80px;
+
+}
+
+.boxB {
+    width: 300px;
+    height: 350px;
+    border: 4px solid black;
+    border-radius: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 30px;
+    background-color: rgb(238, 232, 75);
+    font-size: 60px;
+}
+
+.boxB:hover {
+    border-radius: 25px;
+    width: 450px;
+    background-image: url(./images/3-years-01-e1492038396178.jpg);
+    background-size: cover;
+    font-size: 80px;
+}
+
+.boxC {
+    width: 300px;
+    height: 350px;
+    border: 4px solid black;
+    border-radius: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 360px;
+    margin-top: 10px;
+    background-color: rgb(83, 214, 114);
+    font-size: 60px;
+}
+
+.boxC:hover {
+    border-radius: 25px;
+    width: 400px;
+    background-image: url(./images/tbpko9nu1iqj7ubhdf19.webp);
+    background-size: cover;
+    font-size: 80px;
+}
+
+.boxX {
+    width: 300px;
+    height: 350px;
+    border: 4px solid black;
+    border-radius: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 150px;
+    margin-right: 105px;
+    background-color: rgb(244, 93, 156);
+    font-size: 40px;
+}
+
+.boxX:hover {
+    border-radius: 25px;
+    width: 400px;
+    background-image: url(./images/istockphoto-1258724062-1024x1024.jpg);
+    background-size: cover;
+    font-size: 60px;
+}
+
+.boxY {
+    width: 300px;
+    height: 350px;
+    border: 4px solid black;
+    border-radius: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 30px;
+    background-color: rgb(232, 115, 65);
+    font-size: 60px;
+}
+
+.boxY:hover {
+    border-radius: 25px;
+    width: 400px;
+    background-image: url(./images/beanbags2.jpeg);
+    background-size: cover;
+    font-size: 80px;
+}
+
+.boxZ {
+    width: 300px;
+    height: 350px;
+    border: 4px solid black;
+    border-radius: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 360px;
+    margin-top: 10px;
+    background-color: blueviolet;
+    font-size: 60px;
+}
+
+.boxZ:hover {
+    border-radius: 25px;
+    width: 400px;
+    background-image: url(./images/arts.jpg);
+    background-size: cover;
+    font-size: 80px;
+}
+
+.box1A {
+    width: 300px;
+    height: 350px;
+    border: 4px solid black;
+    border-radius: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 150px;
+    margin-right: 105px;
+    background-color: violet;
+    font-size: 60px;
+}
+
+.box1A:hover {
+    border-radius: 25px;
+    width: 400px;
+    background-image: url(./images/kichin.jpg);
+    font-size: 80px;
+    background-size: cover;
+}
+
+.box2B {
+    width: 300px;
+    height: 350px;
+    border: 4px solid black;
+    border-radius: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 30px;
+    background-color: darkorange;
+    font-size: 60px;
+}
+
+.box2B:hover {
+    border-radius: 25px;
+    width: 400px;
+    background-image: url(./images/chinging\ room\ \(2\).jpg);
+    background-size: cover;
+    font-size: 80px;
+}
+
+.box3C {
+    width: 300px;
+    height: 350px;
+    border: 4px solid black;
+    border-radius: 20%;
+    text-align: center;
+    float: left;
+    margin-left: 360px;
+    margin-top: 10px;
+    background-color: lightskyblue;
+    font-size: 60px;
+
+}
+
+.box3C:hover {
+    border-radius: 25px;
+    width: 400px;
+    background-image: url(./images/bathroom22.jpg);
+    background-size: cover;
+    font-size: 70px;
+}
+
+.link2 {
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: cursive;
+    letter-spacing: 3px;
+}
+
+.link2:hover {
+    color: white;
+    background-color: rgb(166, 162, 162);
+}
+
+.text1,
+.text2,
+.text3,
+.textA,
+.textB,
+.textC,
+.textX,
+.textY,
+.textZ,
+.text1A,
+.text2B,
+.text3C {
+    font-size: 14px;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 16px;
+    word-spacing: 5px;
+}
+
+.text1:hover {
+    color: aliceblue;
+    background-color: rgb(202, 108, 209);
+}
+
+.text2:hover {
+    color: aliceblue;
+    background-color: rgb(101, 95, 219);
+
+}
+
+.text3:hover {
+    color: aliceblue;
+    background-color: rgb(99, 187, 202);
+}
+
+.textA:hover {
+    color: aliceblue;
+    background-color: rgb(14, 220, 155);
+}
+
+.textB:hover {
+    color: aliceblue;
+    background-color: rgb(241, 237, 107);
+}
+
+.textC:hover {
+    color: aliceblue;
+    background-color: rgb(83, 214, 114);
+
+}
+
+.textX:hover {
+    color: aliceblue;
+    background-color: rgb(244, 93, 156);
+}
+
+.textY:hover {
+    color: aliceblue;
+    background-color: rgb(232, 115, 65);
+}
+
+.textZ:hover {
+    color: aliceblue;
+    background-color: blueviolet;
+}
+
+.text1A:hover {
+    color: aliceblue;
+    background-color: violet;
+}
+
+.text2B:hover {
+    color: aliceblue;
+    background-color: darkorange;
+}
+
+.text3C:hover {
+    color: aliceblue;
+    background-color: lightskyblue;
+}
+
+.video1,
+.video2,
+.video3,
+.videoA,
+.videoB,
+.videoC,
+.videoX,
+.videoY,
+.videoZ,
+.video1A,
+.video2B,
+.video3C {
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.video1:hover {
+    background-color: rgb(202, 108, 209);
+    color: aliceblue;
+}
+
+.video2:hover {
+    background-color: rgb(101, 95, 219);
+    color: aliceblue;
+}
+
+.video3:hover {
+    background-color: rgb(99, 187, 202);
+    color: aliceblue;
+}
+
+.videoA:hover {
+    background-color: rgb(14, 220, 155);
+    color: aliceblue;
+}
+
+.videoB:hover {
+    background-color: rgb(216, 212, 89);
+    color: aliceblue;
+}
+
+.videoC:hover {
+    background-color: rgb(83, 214, 114);
+    color: aliceblue;
+}
+
+.videoX:hover {
+    background-color: rgb(244, 93, 156);
+    color: aliceblue;
+
+}
+
+.videoY:hover {
+    background-color: rgb(232, 115, 65);
+    color: aliceblue;
+
+}
+
+
+.videoZ:hover {
+    background-color: blueviolet;
+    color: aliceblue;
+
+}
+
+.video1A:hover {
+    background-color: violet;
+    color: aliceblue;
+}
+
+.video2B:hover {
+    background-color: darkorange;
+    color: aliceblue;
+}
+
+.video3C:hover {
+    background-color: lightskyblue;
+    color: aliceblue;
+}
